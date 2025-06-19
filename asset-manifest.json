@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Personal-Crossplatform-Expense-Tracker/static/css/main.47f19123.css",
+    "main.js": "/Personal-Crossplatform-Expense-Tracker/static/js/main.a67ab536.js",
+    "index.html": "/Personal-Crossplatform-Expense-Tracker/index.html",
+    "main.47f19123.css.map": "/Personal-Crossplatform-Expense-Tracker/static/css/main.47f19123.css.map",
+    "main.a67ab536.js.map": "/Personal-Crossplatform-Expense-Tracker/static/js/main.a67ab536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f19123.css",
+    "static/js/main.a67ab536.js"
+  ]
+}
